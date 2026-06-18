@@ -4,7 +4,7 @@
 
 ## Demo
 
-<video src="https://raw.githubusercontent.com/klumen/GameEngine/master/demo.mp4" controls width="100%"></video>
+<video src="demo.mp4" controls width="100%"></video>
 
 ## 构建
 
