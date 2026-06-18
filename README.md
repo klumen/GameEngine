@@ -4,7 +4,7 @@
 
 ## Demo
 
-<video src="demo.mp4" controls width="100%"></video>
+![Demo](demo.gif)
 
 ## 构建
 
